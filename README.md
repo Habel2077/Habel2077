@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Habel2077
 - 👀 I’m interested in coding and developer courses.
-- 🌱 I know HTML,CSS and JS.(Mainly Web Design)
-- I recently learnt Flask to add to my web design.
+- 🌱 I know HTML,CSS, JS, Python and React.(Mainly Web Design)
+- I recently learnt Flask and Django to add to my web design.
 - I'm currently learning Java, C#.
 - 💞️ I’m looking to collaborate on github community
 - 📫 How to reach me:
