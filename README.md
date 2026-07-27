@@ -5,7 +5,8 @@
 - I'm currently learning Java, C#.
 - 💞️ I’m looking to collaborate on github community
 - 📫 How to reach me:
-Whatsapp or Telegram : +233242396142
+Whatsapp @ TheGhost2277
+
 <!---
 Habel2077/Habel2077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
