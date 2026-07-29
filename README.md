@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Habel
 
-I'm a self-taught developer from Ghana who enjoys building modern web applications and solving real-world problems with code.
+I'm a self-taught developer who enjoys building modern web applications and solving real-world problems with code.
 
 ## 🚀 Tech Stack
 
