@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @Habel2077
-- 👀 I’m interested in coding and developer courses.
-- 🌱 I know HTML,CSS, JS, Python and React.(Mainly Web Design)
-- I recently learnt Flask and Django to add to my web design.
-- I'm currently learning Java, C#.
-- 💞️ I’m looking to collaborate on github community
-- 📫 How to reach me:
-Whatsapp @ TheGhost2277
+# 👋 Hi, I'm Habel
+
+I'm a self-taught developer from Ghana who enjoys building modern web applications and solving real-world problems with code.
+
+## 🚀 Tech Stack
+
+* **Frontend:** HTML, CSS, JavaScript, React
+* **Backend:** Python, Flask, Django
+* **Currently Learning:** Java, C#
+
+## 💡 What I'm Working On
+
+I'm focused on creating full-stack web applications, experimenting with new technologies, and writing clean, maintainable code. I'm especially interested in projects involving APIs, automation, and developer tools.
+
+## 🤝 Open to Collaborate
+
+I'm always interested in collaborating on open-source projects, learning from other developers, and contributing to the GitHub community.
+
+## 📫 Reach Me
+
+* GitHub: **Habel2077**
+* Discord/WhatsApp: **TheGhost2277**
+
+> *"Every expert was once staring at an error message they didn't understand."*
 
 <!---
 Habel2077/Habel2077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
