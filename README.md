@@ -6,7 +6,7 @@ I'm a self-taught developer who enjoys building modern web applications and solv
 
 * **Frontend:** HTML, CSS, JavaScript, React
 * **Backend:** Python, Flask, Django
-* **Currently Learning:** Java, C#
+* **Currently Learning:** Java, C
 
 ## 💡 What I'm Working On
 
